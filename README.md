@@ -5,8 +5,7 @@
 - This ensures the script contains only the intended logic.
 
 ### 2. For compiled `.exe` scripts
-- Extract the files if needed using standard AutoHotkey methods.
-- Check the extracted files in: ```%appdata%\AutoHotkey\Compiler```
-- Inspect these files to verify the internal scripts and resources.
+- Compiled scripts are saved in the `%appdata%` folder.
+- You can inspect the files there to verify their contents and ensure legitimacy.
 
 > 🔹 **Tip:** Always check scripts before running them to ensure safety and transparency.
